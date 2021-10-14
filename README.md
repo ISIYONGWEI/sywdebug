@@ -13,4 +13,4 @@ I am a front-end developer who started programming in college and currently live
 <!-- &locale=cn -->
 
 
-<p align="right">Designed with ❤️ by sywdebug.</p>
+<p align="right">Written ❤️ sywdebug.</p>
